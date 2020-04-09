@@ -1,0 +1,14 @@
+window
+
+location
+location.href
+location.pathname
+location.protocol
+
+screen
+
+window.open.location.href="http://google.com";
+window.open('','','height=150,width=150');
+
+var win = window.open('','','height=150,width=150');
+win.moveTo(500,500);

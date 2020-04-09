@@ -1,0 +1,13 @@
+var date = new Date();
+date.getDate()
+date.getDay()
+date.getTime()
+var date = new Date(2014,4,27);
+
+Math.PI
+Math.random()
+Math.round(random())
+Math.max(2,6,1,9,4,3,6)
+Math.min(2,6,1,9,4,3,6)
+Math.floor(1.66)
+Math.floor(Math.random()*159)

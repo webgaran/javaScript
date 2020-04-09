@@ -1,0 +1,16 @@
+var li = document.getElementByTagName('li');
+var li1 = li[0];
+ul.firstChild.classList;
+li1.className = li1.classNmae + ' active'
+li1.classList
+li1.classList.contains('active')
+li1.classList.remove('active')
+li1.setAttribute( 'class' , 'active' )
+li1.classList.add('list-group-item')
+li1.setAttribute( 'href' , '#' )
+li1.removeAttribute( 'href' )
+li1.hasAttribute( 'href' )
+var li2 = li1.nextSibling
+
+var ul = document.getElementByClassName('list-group');
+ul.removeChild(ul.childNodes[0])

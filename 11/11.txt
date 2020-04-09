@@ -1,0 +1,8 @@
+length
+indexOf
+lastIndexOf
+slice
+replace
+toUpperCase
+toLowerCase
+splite

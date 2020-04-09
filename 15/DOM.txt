@@ -1,0 +1,12 @@
+document.getElementById()
+document.getElementByClassName()
+document.getElementsByClassName()
+document.getElementsByClassName()[0]
+var el = document.getElementsByClassName()[0]
+el.nodeType
+var el = document.getElementsByClassName('row')[0]
+el.childNodes
+el.children
+el.childNodes[0].nodeType
+el.childNodes.length
+el.children.length

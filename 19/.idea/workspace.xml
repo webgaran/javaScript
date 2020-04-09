@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0862f8b2-d340-4599-993a-ef79d7ee08ec" name="Default" comment="" />
+    <ignored path="JavaScript.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaScript" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="scirpt.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="105" selection-start-line="15" selection-start-column="105" selection-end-line="15" selection-end-column="105" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/scirpt.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roocket\Desktop\JavaScript\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roocket\Desktop\JavaScript\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0862f8b2-d340-4599-993a-ef79d7ee08ec" name="Default" comment="" />
+      <created>1465276378484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465276378484</updated>
+      <workItem from="1465276382681" duration="2849000" />
+      <workItem from="1465317914925" duration="496000" />
+      <workItem from="1465447523889" duration="8595000" />
+      <workItem from="1465755180397" duration="709000" />
+      <workItem from="1466747959619" duration="4387000" />
+      <workItem from="1466783891060" duration="762000" />
+      <workItem from="1466824316615" duration="14088000" />
+      <workItem from="1466965955146" duration="597000" />
+      <workItem from="1466996368909" duration="9845000" />
+      <workItem from="1467083048112" duration="2336000" />
+      <workItem from="1467097136574" duration="1849000" />
+      <workItem from="1467123987593" duration="2921000" />
+      <workItem from="1467149852183" duration="50000" />
+      <workItem from="1467172888857" duration="2994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52478000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22257552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1467174427634" expanded="true" signature="45:6909" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="52:401" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="408:6901" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="417:466" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="488:6837" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="495:932" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="529:896" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="963:6805" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="1008:1557" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="1584:2197" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="2228:3178" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="3207:4393" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="4425:5261" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="5290:6798" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+          <folding>
+            <marker date="1467174243004" expanded="true" signature="112:206" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="228:246" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="253:360" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="364:410" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="511:674" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="685:729" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="772:897" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="783:831" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="844:895" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="908:987" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="1003:1054" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="1071:1616" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="1650:1670" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="1696:1992" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2006:2145" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2188:2398" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2208:2232" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2248:2396" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2441:2557" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2458:2555" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2579:2598" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2625:2676" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2700:2718" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="2741:3014" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3053:3120" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3152:3250" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3281:3506" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3559:3590" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3641:3676" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3731:3766" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3819:3854" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3910:3945" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="3998:4034" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4096:4131" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4191:4230" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4294:4333" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4395:4434" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4499:4538" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4600:4640" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4683:5026" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4707:4805" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4830:4893" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="4927:4971" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5004:5024" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5069:5622" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5093:5245" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5270:5431" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5465:5509" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5542:5620" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5641:5667" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5688:5726" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5756:5880" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="5903:6008" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6051:6160" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6072:6100" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6123:6158" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6203:6368" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6224:6248" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6271:6294" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6319:6366" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6400:6459" placeholder="..." />
+            <marker date="1467174243004" expanded="true" signature="6407:6428" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6436:6457" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6487:6546" placeholder="..." />
+            <marker date="1467174243004" expanded="true" signature="6494:6515" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6523:6544" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6569:6628" placeholder="..." />
+            <marker date="1467174243004" expanded="true" signature="6576:6597" placeholder="{...}" />
+            <marker date="1467174243004" expanded="true" signature="6605:6626" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
+          <folding>
+            <marker date="1467174427634" expanded="true" signature="45:6909" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="52:401" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="408:6901" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="417:466" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="488:6837" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="495:932" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="529:896" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="963:6805" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="1008:1557" placeholder="..." />
+            <marker date="1467174427634" expanded="true" signature="1584:2197" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="2228:3178" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="3207:4393" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="4425:5261" placeholder="..." />
+            <marker date="1467174427634" expanded="false" signature="5290:6798" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scirpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="105" selection-start-line="15" selection-start-column="105" selection-end-line="15" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

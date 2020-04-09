@@ -1,0 +1,11 @@
+navigator
+navigator.geolocation
+navigator.geolocation.getCurrentPosition(function(position){
+	console.log(position)	
+}, function(err){
+	console.log(err)	
+})
+
+navigator.geolocation.watchPosition(function(position){
+	console.log('new Position: ' + position.coords.latitude)		
+})
